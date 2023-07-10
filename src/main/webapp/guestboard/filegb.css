@@ -1,0 +1,14 @@
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-size:12px;color: #333333;
+}
+.style1 {font-size: 12px;color: #333333; font-weight:bold;}
+.style2 {font-size: 12px;color: #333333;}
+.input_style1 {border:1px solid #bbbbbb; width:200px; height:18px; font-size:12px; color:#666666;}
+.input_style2 {border:1px solid #bbbbbb; width:450px; height:18px; font-size:12px; color:#666666;}
+.textarea_style1 {border:1px solid #bbbbbb; width:450px; height:150px; font-size:12px; color:#666666;}
+
